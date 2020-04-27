@@ -89,6 +89,7 @@ print("准确率{:.2f}%".format(100*correct/len(test_set)))
 
 **结果：**
 
-![image-20200427174050697](C:\Users\沈岩\AppData\Roaming\Typora\typora-user-images\image-20200427174050697.png)
+![](C:\Users\沈岩\Desktop\1.png)
 
-**数据集来源：https://www.kaggle.com/yuqing01/breast-cancer**  
+**数据集来源：https://www.kaggle.com/yuqing01/breast-cancer**
+
